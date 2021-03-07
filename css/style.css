@@ -3,9 +3,6 @@ body{
     font-size: 16px;
     color: #1a2235;
 }
-*{
-    box-sizing: border-box;
-}
 a{
     font-size: 16px;
     color: #1a2235;
@@ -61,6 +58,7 @@ span.cnt{
     height: 15px;
     border-radius: 25px;
     color: #fff;
+    line-height: 15px;
 }
 .menu-block .menu a.active{
     color: #232e40;
